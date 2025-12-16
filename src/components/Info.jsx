@@ -5,8 +5,8 @@ export default function Info() {
         <div className="cardPad">
           <h2>ℹ️ Informazioni evento</h2>
           <p>
-            <b>Cuneo Hip-Hop Festival</b> è un evento urbano con live e showcase,
-            pensato per una giornata intensa: sound, luci e crowd energy.
+            Il format 2025 del <b>Cuneo Block Party</b> porta il vibe di una block parade: sound system aperto,
+            live set diffusi e visual sperimentali.
           </p>
 
           <div className="list">

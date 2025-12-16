@@ -14,11 +14,13 @@ export default function App() {
     <>
       <Navbar />
 
-      <main className="wrap hero">
-        <div className="heroGrid">
-          <Hero />
-          <QuickInfo />
-        </div>
+      <main className="wrap">
+        <section className="hero">
+          <div className="heroGrid">
+            <Hero />
+            <QuickInfo />
+          </div>
+        </section>
 
         <Info />
         <Lineup />
