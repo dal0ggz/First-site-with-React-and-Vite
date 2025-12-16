@@ -4,6 +4,7 @@ export default function Tickets() {
       <div className="card">
         <div className="cardPad">
           <h2>🎟️ Biglietti</h2>
+          <p>Blocca lo slot: prezzi dinamici, badge digitale e accesso a tutte le aree.</p>
 
           <div className="grid3">
             <div className="item">

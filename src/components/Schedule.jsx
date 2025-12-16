@@ -4,6 +4,7 @@ export default function Schedule() {
       <div className="card">
         <div className="cardPad">
           <h2>🕒 Orari & Programma</h2>
+          <p>Flow orizzontale: soundcheck soft, blocchi tematici e chiusura condivisa Main + Tunnel.</p>
 
           <div className="schedule">
             <div className="row">
@@ -21,7 +22,7 @@ export default function Schedule() {
                 <b>Showcase</b>
                 <div className="tiny">Artisti emergenti</div>
               </div>
-              <div className="stage">UNDER</div>
+              <div className="stage">TUNNEL</div>
             </div>
 
             <div className="row">

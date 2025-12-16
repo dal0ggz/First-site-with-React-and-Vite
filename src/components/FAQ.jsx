@@ -10,7 +10,7 @@ export default function FAQ() {
               <div className="ico">🎒</div>
               <div>
                 <b>Zaini?</b><br />
-                <span className="tiny">Sì, controlli all’ingresso.</span>
+                <span className="tiny">Consentiti, controllo in accoglienza.</span>
               </div>
             </div>
 
@@ -18,7 +18,7 @@ export default function FAQ() {
               <div className="ico">💳</div>
               <div>
                 <b>Cash o carta?</b><br />
-                <span className="tiny">Consigliata carta.</span>
+                <span className="tiny">Preferita carta/bancomat in food market.</span>
               </div>
             </div>
 
@@ -26,7 +26,7 @@ export default function FAQ() {
               <div className="ico">📸</div>
               <div>
                 <b>Video?</b><br />
-                <span className="tiny">Sì, no attrezzatura pro.</span>
+                <span className="tiny">Ok smartphone, no attrezzatura pro.</span>
               </div>
             </div>
           </div>
